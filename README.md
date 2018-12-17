@@ -8,7 +8,10 @@ Queremos asegurar un crecimiento económico socialmente inclusivo y sostenible a
 
 Queremos que los hermosillenses con buenas ideas, sin historial de crédito y sin reiqueza propia puedan acceder a los fondos suficientes para fondear y hacer crecer una empresa tecnológica (Startup).
 
-### Coordinador
+### Coordinación
+En las Ciudades Unidas estamos comprometidos a descentralizar las decisiones, por esta razón la organización no opera a través de una estructura gerárquica tradicional. Conoce el rol de un organizador [aquí](http://github.com)
+
+## Coordinador
 En las Ciudades Unidas estamos comprometidos a descentralizar las decisiones, por esta razón la organización no opera a través de una estructura gerárquica tradicional.
 
 Sin embargo, la visión global de todo lo relacionado con una ciudad y el desarrollo de una visión compartida entre las diferentes áreas que la integran, es esencial para el cumplimiento de nuestro objetivo. En las Ciudades Unidas, a este rol se le llama coordinador.
@@ -21,4 +24,19 @@ Asi mismo, al principio rector del coordinador de una ciudad le llamamos "Jerarq
 
 **Por consentimiento**, por que todo el poder gerencial de un coordinador, recae en todos los integrantes de una ciudad juntos. Es decir, todos nosotros.
 
-El rol de un coordinador
+### El rol de un coordinador
+
+* **Delegar** - Muchas de las responsabilidades de un coordinador son ejecutadas por otras personas. No pueden ni deben ejecutarlas todas ellos mismos.
+
+* **Síntesis** - 
+
+Juicio
+
+Habilidad
+
+Contexto
+
+
+
+
+
