@@ -12,12 +12,7 @@ Queremos que los hermosillenses con buenas ideas, sin historial de crédito y si
 En las Ciudades Unidas estamos comprometidos a descentralizar las decisiones, por esta razón la organización no opera a través de una estructura gerárquica tradicional. Conoce el rol de un organizador [aquí](https://github.com/CiudadesUnidas/coordinacion/blob/master/README.md).
 
 ### Coordinadores
-La coordinación de una ciudad se lleva a cabo por al menos dos personas, nunca una sola persona. Los coordinadores de Hermosillo son:
+La coordinación de una ciudad se lleva a cabo por al menos dos personas. Los coordinadores de Hermosillo son:
 
 Apellido, Nombre, email
 Apellido, Nombre, email
-
-
-
-
-
