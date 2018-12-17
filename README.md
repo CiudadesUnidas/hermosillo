@@ -9,7 +9,7 @@ Queremos asegurar un crecimiento económico socialmente inclusivo y sostenible a
 Queremos que los hermosillenses con buenas ideas, sin historial de crédito y sin reiqueza propia puedan acceder a los fondos suficientes para fondear y hacer crecer una empresa tecnológica (Startup).
 
 ### Coordinación
-En las Ciudades Unidas estamos comprometidos a descentralizar las decisiones, por esta razón la organización no opera a través de una estructura gerárquica tradicional. Conoce el rol de un organizador [aquí](https://github.com/CiudadesUnidas/hermosillo/blob/master/coordinacion).
+En las Ciudades Unidas estamos comprometidos a descentralizar las decisiones, por esta razón la organización no opera a través de una estructura gerárquica tradicional. Conoce el rol de un organizador [aquí](https://github.com/CiudadesUnidas/coordinacion/blob/master/README.md).
 
 ### Coordinadores
 La coordinación de una ciudad se lleva a cabo por al menos dos personas, nunca una sola persona. Los coordinadores de Hermosillo son:
