@@ -17,4 +17,6 @@ La coordinación de una ciudad se lleva a cabo por al menos dos personas. Los co
 Apellido, Nombre, email
 Apellido, Nombre, email
 
+## Situación actual de Hermosillo
+
 ## Plan de trabajo
