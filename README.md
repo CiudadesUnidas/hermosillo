@@ -15,8 +15,11 @@ En las Ciudades Unidas estamos comprometidos a descentralizar las decisiones, po
 La coordinación de una ciudad se lleva a cabo por al menos dos personas. Los coordinadores de Hermosillo son:
 
 Apellido, Nombre, email
+
 Apellido, Nombre, email
 
 ## Situación actual de Hermosillo
+
+
 
 ## Plan de trabajo
